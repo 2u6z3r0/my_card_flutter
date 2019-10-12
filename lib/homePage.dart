@@ -4,7 +4,6 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.teal,
       body: Container(
         width: double.infinity,
         decoration: BoxDecoration(
